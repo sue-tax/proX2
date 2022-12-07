@@ -1,0 +1,1 @@
+java --module-path "c:\javafx-sdk-19\lib" --add-modules=javafx.controls,javafx.fxml -jar proX.jar
