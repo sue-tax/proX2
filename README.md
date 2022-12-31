@@ -5,8 +5,12 @@ https://www.oracle.com/jp/java/technologies/downloads/
 javaFXのライブラリが必要です。
 https://gluonhq.com/products/javafx/
 
+Windows 19 x64 SDK をダウンロードし、解凍します。
+
+
 javaFXのライブラリを指定するために、
 proX.bat で起動します。
+proX.bat内のmodule-pathは、上記のjavaFXライブラリの解凍先に書き換えます。
 
 ## 概要
 テキストデータ（マークダウン記法を推奨）の中の変数を含めた計算式を計算します。
