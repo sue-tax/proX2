@@ -1,4 +1,6 @@
 # proX2
+**うまく起動できないようです。原因不明です。**
+
 javaの実行環境が必要です。
 https://www.oracle.com/jp/java/technologies/downloads/
 
