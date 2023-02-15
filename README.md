@@ -1,18 +1,30 @@
 # proX2
-**うまく起動できないようです。原因不明です。**
+~~うまく起動できないようです。原因不明です。~~
 
+### 環境設定
 javaの実行環境が必要です。
+
 https://www.oracle.com/jp/java/technologies/downloads/
 
 javaFXのライブラリが必要です。
+
 https://gluonhq.com/products/javafx/
 
 Windows 19 x64 SDK をダウンロードし、解凍します。
 
+**追記**
+「環境変数の設定」により「Path」に、ダウンロードしたjavaFXのbinディレクトリを追加します。
 
-javaFXのライブラリを指定するために、
+例：「c:\javafx-sdk-19\bin」
+
+~~javaFXのライブラリを指定するために、
 proX.bat で起動します。
-proX.bat内のmodule-pathは、上記のjavaFXライブラリの解凍先に書き換えます。
+proX.bat内のmodule-pathは、上記のjavaFXライブラリの解凍先に書き換えます。~~
+
+### 起動方法
+proX.jarとMainScreen.fxmlをダウンロードして、同じフォルダに保存します。
+
+ファイルエクスプローラーなどで、proX.jarをダブルクリックすると起動します。
 
 ## 概要
 テキストデータ（マークダウン記法を推奨）の中の変数を含めた計算式を計算します。
