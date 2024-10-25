@@ -6,7 +6,7 @@ proX のコンソール（コマンドライン）版です。
 
 コマンドプロンプト起動します。
 
-java -jar C:xxxxxx\proTex001.jar XXXXX.md
+java -jar C:xxxxxx\proTex.jar XXXXX.md
 
 proTexは、TeXの数式のうち分数\frac{分子}{分母}、累乗根\sqrt[3]{27},\piによる計算をできるようにしました。
 
