@@ -39,6 +39,10 @@ proTexは、TeXの数式のうち分数`\frac{分子}{分母}`、累乗根`\sqrt
 "半径:3"
 "e:$$'半径:3' * '半径:3' * \pi = 28.27431$$"
 ```
+### 環境設定
+javaの実行環境が必要です。
+
+https://www.oracle.com/jp/java/technologies/downloads/
 
 ## proX
 
