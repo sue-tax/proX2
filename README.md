@@ -45,6 +45,10 @@ javaの実行環境が必要です。
 
 https://www.oracle.com/jp/java/technologies/downloads/
 
+### バージョン
+
+version0.041 ファイルの後ろに、０のデータが付加されるバグを修正
+
 ## proX
 
 ### 環境設定
