@@ -49,6 +49,8 @@ https://www.oracle.com/jp/java/technologies/downloads/
 
 version0.041 ファイルの後ろに、０のデータが付加されるバグを修正
 
+version0.05 表変数定義でエラーとなるバグを修正
+
 ## proX
 
 ### 環境設定
