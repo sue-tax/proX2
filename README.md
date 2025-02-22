@@ -1,5 +1,10 @@
 # proX2
 
+## proTexReg
+
+proTex の常駐版です。
+
+
 ## proTex
 
 proX のコンソール（コマンドライン）版です。
